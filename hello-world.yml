@@ -1,0 +1,5 @@
+---
+- name : install hello-world
+  hosts : ubuntu
+  roles :
+    - hello-world
